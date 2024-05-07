@@ -1,0 +1,14 @@
+/*DOCUMENTO CSS*/
+
+body { background-color: rgba(134, 68, 197, 0.446); }
+
+@media only screen and (min-width: 280px) {
+    .menu-toggle {
+        display: block;
+        top: 30px;
+    }
+    .main-navigation {
+        float: right;
+        border-top-width: 0;
+    }
+  }
